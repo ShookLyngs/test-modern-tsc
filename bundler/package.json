@@ -1,0 +1,12 @@
+{
+  "name": "test-ts-bundler",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "test": "node dist/run.js"
+  },
+  "devDependencies": {
+    "tsup": "^8.1.0",
+    "typescript": "^5.5.3"
+  }
+}

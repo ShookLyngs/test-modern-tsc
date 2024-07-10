@@ -1,0 +1,12 @@
+{
+  "name": "test-ts-cjs",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "build": "tsc",
+    "test": "node dist/run.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
